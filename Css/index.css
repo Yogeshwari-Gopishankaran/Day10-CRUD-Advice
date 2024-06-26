@@ -1,0 +1,35 @@
+#body{
+    background-image: url(./Asset/bg1.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.head{
+    font-style: italic;
+    margin-left: 100px;
+    margin-top:10px;
+    font-size: xxx-large;
+    text-align: center;
+}
+.button1{
+    margin-left: 230px;
+    border-radius: 5px;
+    padding:5px;
+    background-color: gray;
+    color:whitesmoke;
+    height: 60px;
+    width:150px;
+    font-size: large;
+}
+.button1:hover{
+    background-color: rgb(177, 171, 171);
+    color:whitesmoke;
+    border-color: rgb(192, 188, 188);
+    font-style: italic;
+}
+.msg{
+    font-style: italic;
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:rgb(44, 44, 44);
+}
